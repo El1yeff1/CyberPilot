@@ -1,0 +1,6 @@
+{
+  "name": "CyberPilot",
+  "description": "SOC Threat Intelligence & Diagnostic Engine featuring multi-engine IOC investigation, real-time heuristic scoring, and forensic hex payload inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

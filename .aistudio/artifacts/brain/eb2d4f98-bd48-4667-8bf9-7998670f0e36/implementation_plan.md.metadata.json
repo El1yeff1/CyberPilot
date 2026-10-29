@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for CyberPilot: an authoritative, high-density SecOps and Threat Intelligence investigation platform adhering to the custom design system specification. Includes multi-engine IOC lookup, real-time heuristic scoring, interactive hex/payload inspector, YARA rule tester, live telemetry incident triage, and STIX/JSON export.",
+  "updatedAt":  "2026-10-29T18:52:06.631976153Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
